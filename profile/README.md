@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/viralemergence/.github/blob/main/profile/Arboviruses.jpg" width="600">
+<img align="right" src="https://github.com/viralemergence/.github/blob/main/profile/Arboviruses.jpg" width="500">
 
 # About Verena
 
