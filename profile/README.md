@@ -1,4 +1,4 @@
-<img align="right" src="Arboviruses.png" width="500">
+<img align="right" src="Arboviruses.jpg" width="500">
 
 # About Verena
 
