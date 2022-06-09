@@ -1,4 +1,3 @@
-<img align="right" src="https://github.com/viralemergence/.github/blob/main/profile/Arboviruses.jpg" width="500">
 
 # About Verena
 
@@ -19,3 +18,4 @@
 - [CLOVER](https://www.github.com/viralemergence/clover), the hand-curated backbone of VIRION (which includes non-viral pathogens) 
 - the [insectDisease](https://www.github.com/viralemergence/insectDisease) R interface to the Ecological Database of the World's Insect Pathogens.
 
+<img align="center" src="https://github.com/viralemergence/.github/blob/main/profile/Arboviruses.jpg" width="800">
