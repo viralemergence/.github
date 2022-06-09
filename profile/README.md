@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/viralemergence/.github/blob/main/profile/Verena%20Icon_Light%20Blue.png" width="200">
+<img align="right" src="https://github.com/viralemergence/.github/blob/main/profile/Verena%20Icon_Light%20Blue.png" width="200">
 
 # About Verena
 
