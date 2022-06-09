@@ -6,7 +6,7 @@
 
 🕸️ Our research often uses network science and machine learning to analyze and predict complex systems, especially host-virus networks.
 
-📝 Our [publications](https://www.viralemergence.org/work) are all available for download as PDFs.
+📝 All of our [publications](https://www.viralemergence.org/work) are all available for download as PDFs (even if they're paywalled elsewhere).
 
 💻 Read more on our [website](viralemergence.org).
 
