@@ -2,5 +2,5 @@
 
 🦠 We're an NSF-funded data-driven collaboration working to predict viral emergence.
 
-👩‍💻 Code for several ongoing and published projects is available here, as well as some data and software packages.
+👩‍💻 Code for several ongoing and [published](https://www.viralemergence.org/work) projects is available here, as well as some [data](https://www.viralemergence.org/data) and software packages.
 
