@@ -16,3 +16,5 @@
 - the [VIRION](https://www.github.com/viralemergence/virion) database of host-virus interactions 
 - [CLOVER](https://www.github.com/viralemergence/clover), the hand-curated backbone of VIRION (which includes non-viral pathogens) 
 - the [insectDisease](https://www.github.com/viralemergence/insectDisease) R interface to the Ecological Database of the World's Insect Pathogens.
+
+✍️ There's even templates for sharing your own data, like the [COMET data standard](https://www.github.com/viralemergence/comet-standard).
