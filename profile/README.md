@@ -19,5 +19,3 @@
 - the [insectDisease](https://www.github.com/viralemergence/insectDisease) R interface to the Ecological Database of the World's Insect Pathogens.
 
 ✍️ There's even templates for sharing your own data, like the [COMET data standard](https://www.github.com/viralemergence/comet-standard).
-
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
