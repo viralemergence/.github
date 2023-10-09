@@ -4,7 +4,7 @@
 
 🦠 We're an NSF-funded collaboration working to predict viral ecology, evolution, and emergence. Our research often uses network science and machine learning to analyze and predict complex systems, especially host-virus networks. 
 
-💻 Read more on our [website](viralemergence.org), where you can also download all of our [publications](https://www.viralemergence.org/work) as PDFs (even if they're paywalled somewhere else).
+💻 Read more on our [website](https://www.viralemergence.org), where you can also download all of our [publications](https://www.viralemergence.org/work) as PDFs (even if they're paywalled somewhere else).
 
 --- 
 
