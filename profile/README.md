@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/viralemergence/.github/blob/main/profile/Verena%20Icon_Light%20Blue.png" width="200">
 
 # About Verena
+<img align="right" src="https://github.com/viralemergence/.github/blob/main/profile/Verena%20Icon_Light%20Blue.png" width="200">
 
 🦠 We're an NSF-funded collaboration working to predict viral ecology, evolution, and emergence. Our research often uses network science and machine learning to analyze and predict complex systems, especially host-virus networks. 
 
