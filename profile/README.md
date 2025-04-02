@@ -18,4 +18,7 @@
 - [datacov](https://www.github.com/viralemergence/datacov), a database of nearly 100,000 samples tested for bat coronaviruses since 1996
 - the [insectDisease](https://www.github.com/viralemergence/insectDisease) R interface to the Ecological Database of the World's Insect Pathogens.
 
-✍️ There's even templates for sharing your own data, like the [COMET data standard](https://www.github.com/viralemergence/comet-standard).
+✍️ There's also templates for sharing your own data, including for
+- [vector competence experiments](https://www.github.com/viralemergence/vcds)
+- [wildlife disease surveillance](https://www.github.com/viralemergence/wdds) (and check out the [wddsWizard](https://www.github.com/viralemergence/wddsWizard) R package!)
+
